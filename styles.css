@@ -237,7 +237,7 @@ input::placeholder {
 
 }
 
-@media screen and (max-width: 485px){
+@media screen and (max-width: 495px){
     .div_4 p {
         margin-bottom: 0px;
     }
